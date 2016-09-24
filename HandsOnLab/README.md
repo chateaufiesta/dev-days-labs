@@ -605,7 +605,7 @@ Now you can re-run your application and get data from Azure!
 Take Dev Days further with these additional challenges that you can complete at home after Dev Days ends.
 
 ### Challenge 1: Cognitive Services
-For fun, you can add the [Cognitive Serivce Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) and add another Button to the detail page to analyze the speaker's face for happiness level. 
+For fun, you can add the [Cognitive Service Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) and add another Button to the detail page to analyze the speaker's face for happiness level. 
 
 Go to: http://microsoft.com/cognitive and create a new account and an API key for the Emotion service.
 
